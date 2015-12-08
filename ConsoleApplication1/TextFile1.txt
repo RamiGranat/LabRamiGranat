@@ -1,0 +1,46 @@
+﻿Övning 1
+1. CLR betyder Common Language Runtime och håller hand om program-exekvering när programet körs och inkluderar:
+-minnes-handhållning  och skräpinsamling
+-Kod säkerhets verifikation
+-Kod exekvering, tråd hantering och undatags hantering.
+2. BCL betyder Base Class Library och  är ett klass bibiliotek som används av .NET Frameworket.
+3. Kompilatorn tar en källkodsfil och producerar en output fil som kallas en assembly som är antingen en executable eller DLL.
+4. Common Intermediate Library.
+5. Den kallas Just-in-time compiler eller JIT förkortat och den sker inte innan programet kallas till att köra.
+6. Den har automatisk skräpinsamling och
+
+Övning 2
+1.En identifierare är karaktär strängar som används fr att döpa saker som variabler, metoder, parametrar och andra programerings konstrukter.
+2. a-z A-Z och_ får vara var som helst, siffror för var var som helst utom precis i början och @ får bara vara i början.
+3. Pascal case betyder att varje nytta ord har en stor bokstav i början t. ex PascalCase, camel case betyder att det första ordet har en liten bokstav och alla efterföljande har en stor ex: camelCase
+4. Nyckelord är ord som definierar C# språket såsom int, if och bool.
+5. Case sensitive betyder att C# bryr sig om ord skrivs med stora eller små bokstäver.
+6. Space och Tab är whitespaces.
+7. Semikolon.
+8. Uttryck grupperas benom att läggas inom två curly braces {}.
+9. När koden inte är självförklarande bör den kommenteras. 
+Single-line comments kommenterar bara en linje och skrivs //, 
+delimited comments kommenterar allt mellan slut-och-start tecknen och skrivs /* */, 
+documentation comments innehåller XML text och kan används för att producera program documentation, de skirvs ///.
+
+Uppgift 1
+
+Uppgift 2
+1. ; expected och There were biuld errors
+2. Program does not contain a static main method suitable for an entry point
+3. A get or set accessor expected
+4. } expected
+5. The name 'Console' does not exist in the current context
+
+Uppgift 4
+filer:
+Uppgift 1.exe
+Uppgift 1.exe.config
+Uppgift 1.pdb
+Uppgift 1.vshost.exe
+Uppgift 1.vshost.exe.config
+
+försvunna filer:
+Uppgift 1.exe
+Uppgift 1.exe.config
+Uppgift 1.pdb
